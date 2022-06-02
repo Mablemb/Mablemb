@@ -1,6 +1,7 @@
 - 👋 Olá, meu nome é Henrique M.! Digitalmente conhecido como Mablemb.
 
 - 👀 Tenho interesse em Inteligência Artificial, Ciência de Dados e Tecnologia Médica.
+Atualmente estou cursando Engenharia Biomédica.
 
 - 🌱 Estou atualmente aprendendo R, Python, C++, Java e Matlab.
 
