@@ -6,6 +6,6 @@ Atualmente estou cursando Engenharia Biomédica.
 - 🌱 Estou atualmente aprendendo R, Python, C++, Java e Matlab.
 
 - 💞️ Tenho interesse em colaborar com projetos que envolvam simulação de processos biológicos,
-vida artificial e relacionados a D&D
+vida artificial, ciência de dados e relacionados a D&D
 
 - 📫 Contato: mablemb@gmail.com
