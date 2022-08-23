@@ -3,7 +3,7 @@
 - 👀 Tenho interesse em Inteligência Artificial, Ciência de Dados e Tecnologia Médica.
 Atualmente estou cursando Engenharia Biomédica.
 
-- 🌱 Estou atualmente aprendendo R, Python, C++, Java e Matlab.
+- 🌱 Estou atualmente aprendendo SQL, R, Python, C++, Java e Matlab.
 
 - 💞️ Tenho interesse em colaborar com projetos que envolvam simulação de processos biológicos,
 vida artificial, ciência de dados e relacionados a D&D
