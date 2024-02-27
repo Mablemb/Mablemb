@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Henrique M.! Digitalmente conhecido como Mablemb.
+- 👋 Olá, meu nome é Henrique M!
 
 - 👀 Tenho interesse em Inteligência Artificial, Ciência de Dados e Tecnologia Médica.
 Atualmente estou cursando Engenharia Biomédica.
