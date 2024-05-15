@@ -8,9 +8,7 @@ Atualmente estou cursando Engenharia Biomédica.
 - 💞️ Tenho interesse em colaborar com projetos que envolvam simulação de processos biológicos,
 vida artificial, ciência de dados e relacionados a D&D
 
-- 📫 Contato: mablemb@gmail.com
-
-- ### Olá! Eu sou o Pedro Pereira Guimarães
+- ### Olá! Eu sou Henrique Mesquita
 
 ## ℹ️ Sobre mim
   - Brasileiro 🇧🇷 🟢🟡
