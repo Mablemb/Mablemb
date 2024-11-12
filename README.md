@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é Henrique M!
 
 - 👀 Tenho interesse em Inteligência Artificial, Ciência de Dados e Tecnologia Médica.
-Atualmente estou cursando Engenharia Biomédica.
+Sou Engenheiro Biomédico pelo INATEL e atualmente sou aluno especial da pós graduação (mestrado) em Computação Aplicada na USP.
 
 - 🌱 Estou atualmente aprendendo Flutter, SQL, R, Python, C, C++, Java e Matlab.
 
