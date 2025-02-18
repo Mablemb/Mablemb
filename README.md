@@ -5,14 +5,14 @@ Sou Engenheiro Biomédico pelo INATEL e atualmente sou aluno especial da pós gr
 
 - 🌱 Estou atualmente aprendendo Flutter, SQL, R, Python, C, C++, Java e Matlab.
 
-- 💞️ Tenho interesse em colaborar com projetos que envolvam simulação de processos biológicos,
-vida artificial, ciência de dados.
+- 💞️ Tenho interesse em colaborar com projetos que envolvam IA, simulação de processos biológicos,
+vida artificial e ciência de dados em healthcare.
 
 - ### Olá! Eu sou Henrique Mesquita
 
 ## ℹ️ Sobre mim
   - Brasileiro 🇧🇷 🟢🟡
-  - Estudante de Engenharia Biomédica no [Inatel](https://inatel.br/home/)💻
+  - Engenheiro Biomédico pelo [Inatel](https://inatel.br/home/)💻
 
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
