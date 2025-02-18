@@ -6,7 +6,7 @@ Sou Engenheiro Biomédico pelo INATEL e atualmente sou aluno especial da pós gr
 - 🌱 Estou atualmente aprendendo Flutter, SQL, R, Python, C, C++, Java e Matlab.
 
 - 💞️ Tenho interesse em colaborar com projetos que envolvam simulação de processos biológicos,
-vida artificial, ciência de dados e relacionados a D&D
+vida artificial, ciência de dados.
 
 - ### Olá! Eu sou Henrique Mesquita
 
