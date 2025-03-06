@@ -3,7 +3,7 @@
 - 👀 Tenho interesse em Inteligência Artificial, Ciência de Dados e Tecnologia Médica.
 Sou Engenheiro Biomédico pelo INATEL e atualmente sou aluno especial da pós graduação (mestrado) em Computação Aplicada na USP.
 
-- 🌱 Estou atualmente aprendendo Flutter, SQL, R, Python, C, C++, Java e Matlab.
+- 🌱 Estou atualmente aprendendo Flutter, SQL, R, Python, PHP, C, C++, Java e Matlab.
 
 - 💞️ Tenho interesse em colaborar com projetos que envolvam IA, simulação de processos biológicos,
 vida artificial e ciência de dados em healthcare.
