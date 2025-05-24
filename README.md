@@ -1,9 +1,9 @@
 - 👋 Olá, meu nome é Henrique M!
 
 - 👀 Tenho interesse em Inteligência Artificial, Ciência de Dados e Tecnologia Médica.
-Sou Engenheiro Biomédico pelo INATEL e atualmente sou aluno especial da pós graduação (mestrado) em Computação Aplicada na USP.
+Sou Engenheiro Biomédico pelo INATEL, Cientista de Dados pelo LinkedIn Learning e atualmente Desenvovledor de IA para a Kidopi.
 
-- 🌱 Estou atualmente aprendendo Flutter, SQL, R, Python, PHP, C, C++, Java e Matlab.
+- 🌱 Estou atualmente aprendendo Flutter, SQL, R, Python, PHP, C, C++, HTML e Matlab.
 
 - 💞️ Tenho interesse em colaborar com projetos que envolvam IA, simulação de processos biológicos,
 vida artificial e ciência de dados em healthcare.
