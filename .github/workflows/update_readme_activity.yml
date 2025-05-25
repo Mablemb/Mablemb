@@ -1,0 +1,26 @@
+name: Update GitHub Activity README
+
+on:
+  schedule:
+    # Atualiza a cada hora (você pode ajustar o cron schedule)
+    # O formato cron é: minuto hora dia(mês) mês dia(semana)
+    # '0 * * * *' significa no minuto 0 de toda hora.
+    - cron: '0 * * * *'
+  workflow_dispatch: # Permite que você rode este workflow manualmente pela aba Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Define o tipo de máquina virtual para rodar o job
+    name: Update Profile README with Recent Activity
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Action para baixar o código do seu repositório
+
+      - name: Update README with recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master # A action que busca e insere a atividade
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token especial para permitir que a action faça alterações no seu repo
+        with:
+          COMMIT_MSG: 'docs: update recent GitHub activity' # Mensagem de commit personalizada (opcional)
+          MAX_LINES: 5 # Número máximo de linhas/atividades a serem exibidas (opcional, ajuste como preferir)
