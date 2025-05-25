@@ -44,11 +44,6 @@ vida artificial e ciência de dados em healthcare.
   </a>
 </div>
 
-## 💻 Atividade Recente no GitHub
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🚀 Skills/Interesses
   
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -67,3 +62,8 @@ vida artificial e ciência de dados em healthcare.
   <a href="mailto:henrique.araujo@geb.inatel.br"><img src="https://img.shields.io/badge/-Outlook-%230072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-mesquita" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## 💻 Atividade Recente no GitHub
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
