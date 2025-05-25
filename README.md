@@ -45,6 +45,10 @@ vida artificial e ciência de dados em healthcare.
 </div>
 
 ## 💻 Atividade Recente no GitHub
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🚀 Skills/Interesses
   
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
