@@ -17,12 +17,6 @@ vida artificial e ciência de dados em healthcare.
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Mablemb&style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mablemb&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
 ## 📊 GitHub Stats 
 
 <div align="center">
@@ -32,11 +26,6 @@ vida artificial e ciência de dados em healthcare.
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Mablemb&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-  </a>
-</div>
 
 ## 🚀 Skills/Interesses
   
